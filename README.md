@@ -4,7 +4,7 @@
 This is my clicky game web application. This application keeps score as the user clicks on te randomly displayed set of 12 cards. If the user clicks on a card twice, the game is over.  
 
 ## Site Pictures
-![Site](./assets/imagesclicky-game.JPG)
+![Site](./public/images/clicky-game.JPG)
 
 ## Technologies Used 
 - HTML - Used to create elements on the DOM
